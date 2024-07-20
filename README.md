@@ -1,11 +1,11 @@
 ![Minha Foto](https://github.com/user-attachments/assets/995b91d4-96ed-4abc-a1a9-a0bc7a653467)
 
-# SEJAM TODOS BEM VINDOS AO NOSSO GITHUB!
+<h1 style="color: blue;">SEJAM TODOS BEM VINDOS AO NOSSO GITHUB!</h1>
 
 ---
 
-## Quem somos?
-O CAEM é o Centro Acadêmico que representa os estudantes do curso de graduação em Engenharia Mecânica da Faculdade de Engenharia Mecânica da Universidade Estadual de Campinas (UNICAMP). Aqui no GitHub, você pode encontrar diversas coisas úteis, como um banco de provas, atividades, e até mesmo nossos próximos eventos!
+## <span style="color: green;">Quem somos?</span>
+<p>O CAEM é o Centro Acadêmico que representa os estudantes do curso de graduação em Engenharia Mecânica da Faculdade de Engenharia Mecânica da Universidade Estadual de Campinas (UNICAMP). Aqui no GitHub, você pode encontrar diversas coisas úteis, como um banco de provas, atividades, e até mesmo nossos próximos eventos!</p>
 
 ### Nossas redes:
 <div> 
@@ -18,10 +18,10 @@ O CAEM é o Centro Acadêmico que representa os estudantes do curso de graduaç�
 
 ---
 
-## Próximos eventos
-[VEJA AQUI!](https://www.linkedin.com/in/seu-linkedin/)
-
-![Minha Foto](https://github.com/user-attachments/assets/1cf64dd4-a0fd-406b-bdf4-5e005b0fee2e)
+## <span style="color: red;">Próximos eventos</span>
+<a href="https://www.linkedin.com/in/seu-linkedin/">
+  <img src="https://github.com/user-attachments/assets/1cf64dd4-a0fd-406b-bdf4-5e005b0fee2e" alt="Minha Foto">
+</a>
 
 ---
 
